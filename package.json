@@ -1,0 +1,19 @@
+{
+  "name": "krpano",
+  "version": "1.0.0",
+  "description": "[this repository is a development copy of the code of Krpano library]",
+  "main": "krpano.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faheemziker/krpano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheemziker/krpano/issues"
+  },
+  "homepage": "https://github.com/faheemziker/krpano"
+}

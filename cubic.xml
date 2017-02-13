@@ -1,0 +1,21 @@
+<krpano>
+
+	<!-- include some example loading progress animations -->
+	<include url="loadinganimation.xml" />
+	<!-- <include url="loadingpercenttext.xml" /> -->
+	<!-- <include url="loadingbar.xml" /> -->
+
+	<!-- looking direction -->
+	<view hlookat="-1" vlookat="11" fovtype="MFOV" fov="120" fovmin="70" fovmax="140" limitview="auto"/>
+
+	<include url="skin/defaultskin.xml" />
+    <image>
+        <left  url="%$assetPath%/4.jpeg"/>
+        <front url="%$assetPath%/1.jpeg"/>
+        <right url="%$assetPath%/2.jpeg"/>
+        <back  url="%$assetPath%/3.jpeg"/>
+        <up    url="%$assetPath%/5.jpeg"/>
+        <down  url="%$assetPath%/6.jpeg"/>
+    </image>
+
+</krpano>
